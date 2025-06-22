@@ -1,0 +1,12 @@
+Ip address for Client 192.168.1.46
+Ip address for Server 192.168.1.195
+
+Commands
+Terminal
+bash
+ip a(both client and server)
+ping #ip
+
+update apache
+sudo apt update
+sudo apt install apache 2
